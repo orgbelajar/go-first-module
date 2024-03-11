@@ -1,5 +1,5 @@
 package go_first_module
 
 func SayHello() string {
-	return "Nabil"
+	return "Nabil Biasa Aja"
 }
